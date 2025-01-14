@@ -1,4 +1,4 @@
-# TabelaFipe - Projeto Java Spring Boot
+![Captura de tela 2025-01-13 233353](https://github.com/user-attachments/assets/40e57844-b5f2-40d7-b5f9-14b1381b2c04)# TabelaFipe - Projeto Java Spring Boot
 
 Bem-vindo ao projeto **TabelaFipe**! Este repositório tem como objetivo facilitar consultas à tabela FIPE, oferecendo funcionalidades para acessar dados sobre marcas, modelos e veículos. 
 
@@ -118,6 +118,15 @@ System.out.println(dados);
    ```bash
    ./mvnw spring-boot:run
    ```
+
+5. **Adendo:**
+   Caso prefira é possível fazer o projeto rodar no IntelliJ, ao abrir o projeto no Software faça o seguinte caminho:
+   
+   src>main>java>br.com.suna.TabelaFipe
+
+   Ao abrir o pacote clique na classe TabelaFipeApplication e aperte o ícone verde de "play" para rodar.
+
+   ![Captura de tela 2025-01-13 233353](https://github.com/user-attachments/assets/0d86fc5f-6525-4132-b335-ef3243ab0b73)
 
 ---
 
